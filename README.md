@@ -1,4 +1,4 @@
-# MKS Frontend Challenge
+# Frontend
 
 ## Instruções
 
